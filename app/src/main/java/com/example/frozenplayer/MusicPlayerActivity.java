@@ -61,7 +61,7 @@ MusicPlayerActivity.this.runOnUiThread(new Runnable() {
             }
 
         }
-        new Handler().postDelayed(this,100);
+        new Handler().postDelayed(this,1);
 
     }
 });
@@ -113,6 +113,7 @@ MusicPlayerActivity.this.runOnUiThread(new Runnable() {
 
 
         }
+
 
         private void playNextSong(){
 

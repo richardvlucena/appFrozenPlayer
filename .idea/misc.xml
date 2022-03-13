@@ -17,6 +17,7 @@
         <entry key="app/src/main/res/drawable/ic_next.xml" value="0.1855" />
         <entry key="app/src/main/res/drawable/ic_pause.xml" value="0.1855" />
         <entry key="app/src/main/res/drawable/ic_play.xml" value="0.1855" />
+        <entry key="app/src/main/res/drawable/ic_previous.xml" value="0.186" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1539855072463768" />
         <entry key="app/src/main/res/layout/activity_music_player.xml" value="0.1539855072463768" />
         <entry key="app/src/main/res/layout/recycler_item.xml" value="0.1539855072463768" />
